@@ -1,0 +1,14 @@
+{
+  "id": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/actor.json",
+  "type": "Person",
+  "preferredUsername": "test",
+  "inbox": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/inbox.json",
+  "outbox": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/outbox.json",
+  "followers": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/followers.json",
+  "following": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/following.json",
+  "publicKey": {
+    "id": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/key.json",
+    "owner": "https://raw.githack.com/ariedov/threads-ap-key-test-1792560254/master/actor.json",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1pBxXBxYdzQd/sLYzfQF\na7tGiFqn5Bw1e/zFyXQo2GhMZZaO1UKZUCiAkUlfhuQUfW/MQGn8YqxMEkdbC09x\nxrA9tbuq78bKi1AnNVam370k/3PR5GQEs4R53vs+ozls4HTtLHOCc4rjVjD0Of4o\n17Y+a6Rj9tr2cah4SRgYRAMvohu3hgxQY2kTcic+6qtiPZaDEcRPiGXNDvbygW6V\nvLUIQ/ceUcTcfxzLw6MYaZUGJIgBLMAPlYNBpQI5ZMVOkKP4DNlWWmayK6hBVJO3\nBl5wSmZGZPbmxgW97zPhbVORD6ncHCOb87fIIFXW0kutlTJSB3eJSfA/wBj8vY/6\nXQIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}
